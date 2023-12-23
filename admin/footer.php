@@ -1,5 +1,5 @@
                 <footer class="footer">
-                    © 2019 Furniture</span>
+                    © 2023 Beadslyy.id</span>
                 </footer>
 
             </div>
